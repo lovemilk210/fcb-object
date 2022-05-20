@@ -11,6 +11,5 @@ public class ObjectApp {
 		Integer d = Integer.valueOf(1);
 		System.out.println(c == d);
 		
-		
 	}
 }
