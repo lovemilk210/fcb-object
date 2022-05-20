@@ -1,9 +1,6 @@
 package tw.com.fcb.fcb_object;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void main( String[] args )
